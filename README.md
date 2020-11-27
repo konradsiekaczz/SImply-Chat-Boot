@@ -1,4 +1,4 @@
-# Simple chat bot design.
+# Simple chat bot program.
 
 ## This is a simple assignment from JetBrainsAcademy as an introduction to Java.
 
@@ -23,4 +23,4 @@ Java 8 SE.
 
 6)Asking a question on basic Java knowledge with the possibility of another attempt to answer the question correctly.
 
-(/image/screenshot.png?raw=true)
+![screen from project](/image/screenshot.png?raw=true)
